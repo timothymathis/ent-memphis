@@ -1,0 +1,75 @@
+/*   
+Theme Name: Health and Medical Child Theme
+Theme URI: https://wplook.com/
+Description: Use this theme to start your Helath and medical Child Theme development.
+Author: WPlook Studio
+Author URI: https://wplook.com/
+Template: healthmedical-wpl
+
+Version: 1.0.0*/@import url('../healthmedical-wpl/style.css');
+.es, .en { background-repeat: no-repeat; background-position: 0 center; padding: 10px 0 10px 35px !important; }
+.es { background-image: url(http://test.entmemphis.com/wp-content/uploads/2016/11/mexico-flag.png); }
+.en { background-image: url(http://test.entmemphis.com/wp-content/uploads/2016/06/us-flag.png); }
+.socials a { padding: 10px 0; }
+.logo { margin: -60px 0 0 0; }
+.nav { border-left: none; }
+.logo img { width: 63%; }
+.nav-dropdown a { font-size: 14px !important; }
+.nav-dropdown { width: 220px; padding: 15px 0; background-color: #3f7aa2; }
+.intro-slider .slide-caption-inner a { }
+h2 { color: #31c3e7; }
+.section-services-bg .section-features h2 { color: #31c3e7; }
+.header nav { padding-left: 0 !important; }
+.header nav ul { margin: 0 !important; }
+.header nav ul li a { font-size: 1rem; }
+.overlap_block { background: #31c3e7 none repeat scroll 0 0; color: #fff; font-size: 18px; line-height: 23px; padding: 15px !important; }
+.service-single .event-image { display: none; }
+ @media only screen and (max-width:768px) {
+.logo img { width: 35%; }
+.logo { margin: 0 !important; }
+.intro-caption h5, .intro-slider .slide-caption{ display:none !important;}
+
+}
+.article-single-event .list-checks-plugin { margin: 0; list-style: none outside none; }
+.list-checks-plugin li { margin-bottom: 8px; }
+.list-checks-plugin .fa { margin-right: 9px; }
+header .nav-dropdown { width: 310px !important; }
+.widget .textwidget a.viewmap:hover { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/view_map.png) no-repeat 0 2px; color: #555; padding: 0 0 5px 37px; }
+.widget .textwidget a.viewmap { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/view_map_hover.png) no-repeat 0 2px; color: #51b8f2; padding: 0 0 5px 37px; }
+.widget .textwidget span { display: block; }
+.widget .textwidget p span.address { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/address-icon.png) no-repeat 0 10px; padding: 0 0 0 35px; }
+.widget .textwidget p span.sider-phone { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/phone-icon.png) no-repeat 0 2px; padding: 0 0 0 35px; }
+.widget .textwidget p span.sider-fax { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/fax-icon.png) no-repeat 0 2px; padding: 0 0 0 35px; }
+.widget .textwidget p a.email { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/email-icon.png) no-repeat 0 0; padding: 0 0 0 30px; }
+.widget .textwidget p a.twitter { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/twitter-icon.png) no-repeat 0 0; padding: 0 0 0 30px; }
+.widget .textwidget p a.facebook { background: url(http://test.entmemphis.com/wp-content/uploads/2016/06/facebook-icon.png) no-repeat 0 0; padding: 0 0 0 30px; }
+.phone{ margin-top:22px;}
+
+.header-loc {
+    float: left;
+    text-align: left;
+}
+.header-loc .widget {
+    margin: 0;
+    padding: 0;
+}
+.header-loc .widget p{line-height: 18px;}
+.ad-contacts .phone{margin-top:45px;}
+
+.sidebar .menu li.menu-item-599, .sidebar .menu li.menu-item-599 ul li {  display: block;}
+.sidebar .menu li {  display: none;}
+.sidebar .menu li.menu-item-599 > a { display: none;}
+.sidebar .menu li.current-menu-item a {  color: #31c3e7;}
+
+.form-head h6.subtitle1{ margin-top:0px;}
+
+.intro-caption{ display:none;}
+
+
+
+
+
+@media all and (-ms-high-contrast:none){
+*::-ms-backdrop, .intro-small img.fullsize-image{ display:block !important; width:100% !important;}	/* IE11 */
+*::-ms-backdrop, .intro-small .intro-image{ position:absolute !important; top:-250px !important; width:100% !important;}
+}

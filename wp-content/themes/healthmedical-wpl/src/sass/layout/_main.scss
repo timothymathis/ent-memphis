@@ -1,0 +1,16 @@
+/* ------------------------------------------------------------ *\
+	Main
+\* ------------------------------------------------------------ */
+
+.main { position: relative; z-index: 20; }
+.main .large-12 > .breadcrumbs { margin-top: 17px; }
+.divider-nobreadcrumbs { height: 40px; }
+body { background-color: #f0f4f7; }
+.page-template-template-homepage-php .main { background: #fff; }
+
+.content .paging { margin-bottom: 96px; }
+
+@media(max-width: $tablet) {
+	.main { padding-bottom: 0; }
+	.content .paging { margin-bottom: 39px; }
+}

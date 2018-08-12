@@ -1,0 +1,2574 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the health-medical package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: inc/library.php:270 inc/library.php:275 inc/library.php:279
+#: inc/widgets/widget-about-home.php:38 inc/widgets/widget-about-home.php:45
+#: inc/widgets/widget-about-home.php:52 inc/widgets/widget-about-home.php:59
+#: inc/widgets/widget-about-home.php:66 inc/widgets/widget-about-home.php:73
+#: inc/widgets/widget-about-home.php:80 inc/widgets/widget-businesshours.php:40
+#: inc/widgets/widget-businesshours.php:48
+#: inc/widgets/widget-businesshours.php:56
+#: inc/widgets/widget-businesshours.php:64 inc/widgets/widget-cf7-home.php:50
+#: inc/widgets/widget-departments-home.php:49
+#: inc/widgets/widget-doctors-home.php:50
+#: inc/widgets/widget-doctors-home.php:57 inc/widgets/widget-newsletter.php:41
+#: inc/widgets/widget-newsletter.php:42 inc/widgets/widget-posts-home.php:51
+#: inc/widgets/widget-posts-home.php:58 inc/widgets/widget-services-home.php:50
+#: inc/widgets/widget-services-home.php:57
+#: inc/widgets/widget-services-home.php:64 inc/widgets/widget-social.php:39
+#: inc/widgets/widget-social.php:46 inc/widgets/widget-social.php:53
+#: inc/widgets/widget-social.php:59 inc/widgets/widget-social.php:65
+#: inc/widgets/widget-social.php:71 inc/widgets/widget-social.php:78
+#: inc/widgets/widget-social.php:84 inc/widgets/widget-social.php:90
+#: inc/widgets/widget-social.php:96 inc/widgets/widget-social.php:102
+#: inc/widgets/widget-social.php:108 inc/widgets/widget-social.php:115
+#: inc/widgets/widget-testimonials-home.php:51
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: health-medical 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-31 20:59+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:16
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:18
+msgid "404 Error Page"
+msgstr ""
+
+#: 404.php:41
+msgid "404"
+msgstr ""
+
+#: 404.php:42
+msgid "The page you were looking for could not be found."
+msgstr ""
+
+#: 404.php:43 content-none-departments.php:20 content-none-doctors.php:20
+#: content-none-services.php:20 content-none-testimonials.php:20
+#: content-none.php:20
+msgid "Visit Home Page"
+msgstr ""
+
+#: archive-wpl_post_doctors.php:34 template-doctors.php:39
+msgid "Trained Staff"
+msgstr ""
+
+#: archive-wpl_post_doctors.php:64 template-doctors.php:68
+msgid "All doctors"
+msgstr ""
+
+#: archive-wpl_post_doctors.php:177 archive-wpl_post_services.php:152
+#: content-custom-doctor.php:64 content-custom-service.php:38
+#: inc/widgets/widget-departments-home.php:181
+#: inc/widgets/widget-doctors-home.php:306 inc/widgets/widget-posts-home.php:65
+#: inc/widgets/widget-posts-home.php:219
+#: inc/widgets/widget-services-home.php:71
+msgid "Find out more"
+msgstr ""
+
+#: archive-wpl_post_services.php:34 template-services.php:39
+msgid "Check Our"
+msgstr ""
+
+#: archive-wpl_post_services.php:64 template-services.php:68
+msgid "All services"
+msgstr ""
+
+#: archive.php:32
+msgid "Archives"
+msgstr ""
+
+#: category.php:32
+msgid "Category"
+msgstr ""
+
+#: comments.php:16
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:26
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed here."
+msgstr ""
+
+#: content-audio.php:29 content-link.php:36 content.php:38 content.php:51
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: content-audio.php:33 content-link.php:40 content.php:42 content.php:55
+#: image.php:117
+msgid "Pages:"
+msgstr ""
+
+#: content-audio.php:37 content-link.php:44 content.php:46 content.php:59
+#: inc/library.php:718
+msgid "Page"
+msgstr ""
+
+#: content-none-departments.php:18
+msgid "The departments you were looking for could not be found."
+msgstr ""
+
+#: content-none-departments.php:19 content-none-doctors.php:19
+#: content-none-services.php:19 content-none-testimonials.php:19
+#: content-none.php:19
+msgid ""
+"Try <a href=\"javascript: history.go(-1);\">going back</a> to the previous "
+"page or using the Search to find something else."
+msgstr ""
+
+#: content-none-doctors.php:18
+msgid "The doctors you were looking for could not be found."
+msgstr ""
+
+#: content-none-services.php:18
+msgid "The services you were looking for could not be found."
+msgstr ""
+
+#: content-none-testimonials.php:18
+msgid "The testimonials you were looking for could not be found."
+msgstr ""
+
+#: content-none.php:18
+msgid "The posts you were looking for could not be found."
+msgstr ""
+
+#: footer.php:40
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:40
+msgid "WPlook Studio"
+msgstr ""
+
+#: functions.php:109
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:91 inc-booknow.php:47
+msgid "Call Us"
+msgstr ""
+
+#: image.php:87 inc-post-meta.php:26
+msgid "No comments"
+msgstr ""
+
+#: image.php:87 inc-post-meta.php:26
+msgid "1 comment"
+msgstr ""
+
+#: image.php:87 inc-post-meta.php:26
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: image.php:94
+msgid "Permalink"
+msgstr ""
+
+#: image.php:110
+#, php-format
+msgid ""
+"Return to <a href=\"%1$s\" title=\"Return to %2$s\" rel=\"gallery\">%3$s</a>"
+msgstr ""
+
+#: image.php:127
+msgid "<i class=\"fa fa-angle-left\"></i> Previous image"
+msgstr ""
+
+#: image.php:133
+msgid "Next Image <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: inc-booknow.php:36
+msgid "Book Now"
+msgstr ""
+
+#: inc-post-meta.php:35 search.php:55
+msgid "Read more"
+msgstr ""
+
+#: inc/comment.php:27
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: inc/comment.php:38 inc/comment.php:70
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comment.php:59
+msgid "Pingback/Trackback"
+msgstr ""
+
+#: inc/comment.php:98 inc/library.php:546
+msgid "Name"
+msgstr ""
+
+#: inc/comment.php:100 inc/library.php:549
+msgid "Email"
+msgstr ""
+
+#: inc/comment.php:102
+msgid "Website"
+msgstr ""
+
+#: inc/comment.php:105
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/comment.php:108
+msgid "Comment"
+msgstr ""
+
+#: inc/comment.php:109
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/comment.php:110
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/comment.php:111
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/comment.php:114
+msgid "Leave a Comment"
+msgstr ""
+
+#: inc/comment.php:115
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/comment.php:116
+msgid "or Cancel reply"
+msgstr ""
+
+#: inc/comment.php:117
+msgid "Send Comment"
+msgstr ""
+
+#: inc/library.php:127
+msgid ""
+"This content is certainly password protected. To view it please enter your "
+"password below:"
+msgstr ""
+
+#: inc/library.php:128
+msgid "Password:"
+msgstr ""
+
+#: inc/library.php:128
+msgid "Submit:"
+msgstr ""
+
+#: inc/library.php:128
+msgid "Submit"
+msgstr ""
+
+#: inc/library.php:144
+msgid "Facebook"
+msgstr ""
+
+#: inc/library.php:145
+msgid "Twitter"
+msgstr ""
+
+#: inc/library.php:146
+msgid "Pinterest"
+msgstr ""
+
+#: inc/library.php:203
+msgid " at "
+msgstr ""
+
+#: inc/library.php:242
+msgid "<span class=\"mobile-nav\">Previous</span>"
+msgstr ""
+
+#: inc/library.php:246
+msgid "<span class=\"mobile-nav\">Next</span>"
+msgstr ""
+
+#: inc/library.php:265
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/library.php:284
+msgid "Author's Posts"
+msgstr ""
+
+#: inc/library.php:289
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/library.php:293 inc/library.php:679 woocommerce.php:39
+msgid "Shop"
+msgstr ""
+
+#: inc/library.php:330
+msgid "Link color"
+msgstr ""
+
+#: inc/library.php:331
+msgid "Hover link color"
+msgstr ""
+
+#: inc/library.php:332
+msgid "Accent color"
+msgstr ""
+
+#: inc/library.php:333
+msgid "Accent color 2"
+msgstr ""
+
+#: inc/library.php:334
+msgid "Footer Background"
+msgstr ""
+
+#: inc/library.php:475
+msgid "WPlook Panel"
+msgstr ""
+
+#: inc/library.php:485
+msgid "Theme Options"
+msgstr ""
+
+#: inc/library.php:495
+msgid "Support"
+msgstr ""
+
+#: inc/library.php:506
+msgid "More Themes"
+msgstr ""
+
+#: inc/library.php:516
+msgid "Become our fan on Facebook"
+msgstr ""
+
+#: inc/library.php:526
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: inc/library.php:547
+msgid "Position"
+msgstr ""
+
+#: inc/library.php:548
+msgid "Phone"
+msgstr ""
+
+#: inc/library.php:550
+msgid "Date"
+msgstr ""
+
+#: inc/library.php:576 inc/library.php:592 inc/library.php:608
+msgid "Unknown"
+msgstr ""
+
+#: inc/library.php:579 inc/library.php:595 inc/library.php:611
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. /page title in breadcrumbs, 0 - don't show
+#. tag before the current crumb
+#. tag after the current crumb
+#: inc/library.php:635
+msgid "Home"
+msgstr ""
+
+#: inc/library.php:636
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: inc/library.php:637
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/library.php:638
+#, php-format
+msgid "Posts tagged %s"
+msgstr ""
+
+#: inc/library.php:639
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: inc/library.php:640
+msgid "Error 404"
+msgstr ""
+
+#: inc/library.php:822
+msgid "No contact forms available."
+msgstr ""
+
+#: inc/library.php:935 inc/library.php:1202
+msgid "Show all icons"
+msgstr ""
+
+#: inc/library.php:951
+msgid "Icon Picker"
+msgstr ""
+
+#: inc/library.php:1064 inc/theme-options.php:29
+msgid "Ambulance"
+msgstr ""
+
+#: inc/library.php:1065 inc/theme-options.php:30
+msgid "Asclepius sign"
+msgstr ""
+
+#: inc/library.php:1066 inc/theme-options.php:31
+msgid "Bacterium cells"
+msgstr ""
+
+#: inc/library.php:1067 inc/theme-options.php:32
+msgid "Badge"
+msgstr ""
+
+#: inc/library.php:1068 inc/theme-options.php:33
+msgid "Biohazard sign"
+msgstr ""
+
+#: inc/library.php:1069 inc/theme-options.php:34
+msgid "Bladder"
+msgstr ""
+
+#: inc/library.php:1070 inc/theme-options.php:35
+msgid "Blood pressure kit"
+msgstr ""
+
+#: inc/library.php:1071 inc/theme-options.php:36
+msgid "Body scales"
+msgstr ""
+
+#: inc/library.php:1072 inc/theme-options.php:37
+msgid "Bone joint"
+msgstr ""
+
+#: inc/library.php:1073 inc/theme-options.php:38
+msgid "Brain"
+msgstr ""
+
+#: inc/library.php:1074 inc/theme-options.php:39
+msgid "Broken pill"
+msgstr ""
+
+#: inc/library.php:1075 inc/theme-options.php:40
+msgid "Bulb full"
+msgstr ""
+
+#: inc/library.php:1076 inc/theme-options.php:41
+msgid "Bulb reaction"
+msgstr ""
+
+#: inc/library.php:1077 inc/theme-options.php:42
+msgid "Bulb"
+msgstr ""
+
+#: inc/library.php:1078 inc/theme-options.php:43
+msgid "Cell"
+msgstr ""
+
+#: inc/library.php:1079 inc/theme-options.php:44
+msgid "Chromosome"
+msgstr ""
+
+#: inc/library.php:1080 inc/theme-options.php:45
+msgid "Clinical record"
+msgstr ""
+
+#: inc/library.php:1081 inc/theme-options.php:46
+msgid "Clyster"
+msgstr ""
+
+#: inc/library.php:1082 inc/theme-options.php:47
+msgid "Cross"
+msgstr ""
+
+#: inc/library.php:1083 inc/theme-options.php:48
+msgid "Crutches"
+msgstr ""
+
+#: inc/library.php:1084 inc/theme-options.php:49
+msgid "Disabled"
+msgstr ""
+
+#: inc/library.php:1085 inc/theme-options.php:50
+msgid "Dna"
+msgstr ""
+
+#: inc/library.php:1086 inc/theme-options.php:51
+msgid "Doctor"
+msgstr ""
+
+#: inc/library.php:1087 inc/theme-options.php:52
+msgid "Drop counter"
+msgstr ""
+
+#: inc/library.php:1088 inc/theme-options.php:53
+msgid "Drop"
+msgstr ""
+
+#: inc/library.php:1089 inc/theme-options.php:54
+msgid "Dropper"
+msgstr ""
+
+#: inc/library.php:1090 inc/theme-options.php:55
+msgid "Drug blister"
+msgstr ""
+
+#: inc/library.php:1091 inc/theme-options.php:56
+msgid "Drug bottle"
+msgstr ""
+
+#: inc/library.php:1092 inc/theme-options.php:57
+msgid "Drugs"
+msgstr ""
+
+#: inc/library.php:1093 inc/theme-options.php:58
+msgid "Ear"
+msgstr ""
+
+#: inc/library.php:1094 inc/theme-options.php:59
+msgid "Emergency call"
+msgstr ""
+
+#: inc/library.php:1095 inc/theme-options.php:60
+msgid "Emergency cross"
+msgstr ""
+
+#: inc/library.php:1096 inc/theme-options.php:61
+msgid "Empty test tube"
+msgstr ""
+
+#: inc/library.php:1097 inc/theme-options.php:62
+msgid "Eye drop"
+msgstr ""
+
+#: inc/library.php:1098 inc/theme-options.php:63
+msgid "Eye sign"
+msgstr ""
+
+#: inc/library.php:1099 inc/theme-options.php:64
+msgid "Eyeball"
+msgstr ""
+
+#: inc/library.php:1100 inc/theme-options.php:65
+msgid "Facial plastic surgery 2"
+msgstr ""
+
+#: inc/library.php:1101 inc/theme-options.php:66
+msgid "Facial plastic surgery"
+msgstr ""
+
+#: inc/library.php:1102 inc/theme-options.php:67
+msgid "Female sign"
+msgstr ""
+
+#: inc/library.php:1103 inc/theme-options.php:68
+msgid "Fertilization"
+msgstr ""
+
+#: inc/library.php:1104 inc/theme-options.php:69
+msgid "Footsteps"
+msgstr ""
+
+#: inc/library.php:1105 inc/theme-options.php:70
+msgid "Full test tube"
+msgstr ""
+
+#: inc/library.php:1106 inc/theme-options.php:71
+msgid "Fungus cells"
+msgstr ""
+
+#: inc/library.php:1107 inc/theme-options.php:72
+msgid "Glasses"
+msgstr ""
+
+#: inc/library.php:1108 inc/theme-options.php:73
+msgid "Hand with patch"
+msgstr ""
+
+#: inc/library.php:1109 inc/theme-options.php:74
+msgid "Heart attack"
+msgstr ""
+
+#: inc/library.php:1110 inc/theme-options.php:75
+msgid "Heart checklist"
+msgstr ""
+
+#: inc/library.php:1111 inc/theme-options.php:76
+msgid "Heart sign"
+msgstr ""
+
+#: inc/library.php:1112 inc/theme-options.php:77
+msgid "Heart"
+msgstr ""
+
+#: inc/library.php:1113 inc/theme-options.php:78
+msgid "Helicopter"
+msgstr ""
+
+#: inc/library.php:1114 inc/theme-options.php:79
+msgid "Help"
+msgstr ""
+
+#: inc/library.php:1115 inc/theme-options.php:80
+msgid "Hospital bed"
+msgstr ""
+
+#: inc/library.php:1116 inc/theme-options.php:81
+msgid "Hospital sign"
+msgstr ""
+
+#: inc/library.php:1117 inc/theme-options.php:82
+msgid "Hospital"
+msgstr ""
+
+#: inc/library.php:1118 inc/theme-options.php:83
+msgid "Intestines"
+msgstr ""
+
+#: inc/library.php:1119 inc/theme-options.php:84
+msgid "Kidneys"
+msgstr ""
+
+#: inc/library.php:1120 inc/theme-options.php:85
+msgid "Liver"
+msgstr ""
+
+#: inc/library.php:1121 inc/theme-options.php:86
+msgid "Lungs"
+msgstr ""
+
+#: inc/library.php:1122 inc/theme-options.php:87
+msgid "Magnifying glass"
+msgstr ""
+
+#: inc/library.php:1123 inc/theme-options.php:88
+msgid "Male sign"
+msgstr ""
+
+#: inc/library.php:1124 inc/theme-options.php:89
+msgid "Medic"
+msgstr ""
+
+#: inc/library.php:1125 inc/theme-options.php:90
+msgid "Medical alert"
+msgstr ""
+
+#: inc/library.php:1126 inc/theme-options.php:91
+msgid "Medical checklist"
+msgstr ""
+
+#: inc/library.php:1127 inc/theme-options.php:92
+msgid "Medicine chest"
+msgstr ""
+
+#: inc/library.php:1128 inc/theme-options.php:93
+msgid "Men urogenital system"
+msgstr ""
+
+#: inc/library.php:1129 inc/theme-options.php:94
+msgid "Microscope"
+msgstr ""
+
+#: inc/library.php:1130 inc/theme-options.php:95
+msgid "Muscle"
+msgstr ""
+
+#: inc/library.php:1131 inc/theme-options.php:96
+msgid "Nasopharynx"
+msgstr ""
+
+#: inc/library.php:1132 inc/theme-options.php:97
+msgid "Neurology"
+msgstr ""
+
+#: inc/library.php:1133 inc/theme-options.php:98
+msgid "Nurse cap"
+msgstr ""
+
+#: inc/library.php:1134 inc/theme-options.php:99
+msgid "Nurse"
+msgstr ""
+
+#: inc/library.php:1135 inc/theme-options.php:100
+msgid "Patch"
+msgstr ""
+
+#: inc/library.php:1136 inc/theme-options.php:101
+msgid "Pill"
+msgstr ""
+
+#: inc/library.php:1137 inc/theme-options.php:102
+msgid "Pulse"
+msgstr ""
+
+#: inc/library.php:1138 inc/theme-options.php:103
+msgid "Radiation sign"
+msgstr ""
+
+#: inc/library.php:1139 inc/theme-options.php:104
+msgid "Ribbon"
+msgstr ""
+
+#: inc/library.php:1140 inc/theme-options.php:105
+msgid "Rx sign"
+msgstr ""
+
+#: inc/library.php:1141 inc/theme-options.php:106
+msgid "Sex signs"
+msgstr ""
+
+#: inc/library.php:1142 inc/theme-options.php:107
+msgid "Shot"
+msgstr ""
+
+#: inc/library.php:1143 inc/theme-options.php:108
+msgid "Skin"
+msgstr ""
+
+#: inc/library.php:1144 inc/theme-options.php:109
+msgid "Skull bones"
+msgstr ""
+
+#: inc/library.php:1145 inc/theme-options.php:110
+msgid "Skull"
+msgstr ""
+
+#: inc/library.php:1146 inc/theme-options.php:111
+msgid "Snakes cup"
+msgstr ""
+
+#: inc/library.php:1147 inc/theme-options.php:112
+msgid "Snellen chart"
+msgstr ""
+
+#: inc/library.php:1148 inc/theme-options.php:113
+msgid "Spermatozoids"
+msgstr ""
+
+#: inc/library.php:1149 inc/theme-options.php:114
+msgid "Stethoscope"
+msgstr ""
+
+#: inc/library.php:1150 inc/theme-options.php:115
+msgid "Stomach"
+msgstr ""
+
+#: inc/library.php:1151 inc/theme-options.php:116
+msgid "Surgery"
+msgstr ""
+
+#: inc/library.php:1152 inc/theme-options.php:117
+msgid "Syringe"
+msgstr ""
+
+#: inc/library.php:1153 inc/theme-options.php:118
+msgid "Tablet"
+msgstr ""
+
+#: inc/library.php:1154 inc/theme-options.php:119
+msgid "Test tubes"
+msgstr ""
+
+#: inc/library.php:1155 inc/theme-options.php:120
+msgid "Thermometer"
+msgstr ""
+
+#: inc/library.php:1156 inc/theme-options.php:121
+msgid "Thyroid gland"
+msgstr ""
+
+#: inc/library.php:1157 inc/theme-options.php:122
+msgid "Tooth paste"
+msgstr ""
+
+#: inc/library.php:1158 inc/theme-options.php:123
+msgid "Tooth"
+msgstr ""
+
+#: inc/library.php:1159 inc/theme-options.php:124
+msgid "Trolley"
+msgstr ""
+
+#: inc/library.php:1160 inc/theme-options.php:125
+msgid "Ultrasonic diagnostic"
+msgstr ""
+
+#: inc/library.php:1161 inc/theme-options.php:126
+msgid "Virus"
+msgstr ""
+
+#: inc/library.php:1162 inc/theme-options.php:127
+msgid "Women urogenital system"
+msgstr ""
+
+#: inc/plugins/cf7.php:37 inc/plugins/class-tgm-plugin-activation.php:305
+#: inc/plugins/medical-toolkit.php:44 inc/plugins/wie.php:38
+#: inc/plugins/woocommerce.php:37
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/cf7.php:38 inc/plugins/class-tgm-plugin-activation.php:306
+#: inc/plugins/medical-toolkit.php:45 inc/plugins/wie.php:39
+#: inc/plugins/woocommerce.php:38
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/cf7.php:39 inc/plugins/class-tgm-plugin-activation.php:307
+#: inc/plugins/medical-toolkit.php:46 inc/plugins/wie.php:40
+#: inc/plugins/woocommerce.php:39
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/cf7.php:40 inc/plugins/class-tgm-plugin-activation.php:308
+#: inc/plugins/medical-toolkit.php:47 inc/plugins/wie.php:41
+#: inc/plugins/woocommerce.php:40
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/cf7.php:41 inc/plugins/class-tgm-plugin-activation.php:310
+#: inc/plugins/medical-toolkit.php:48 inc/plugins/wie.php:42
+#: inc/plugins/woocommerce.php:41
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:42 inc/plugins/class-tgm-plugin-activation.php:315
+#: inc/plugins/medical-toolkit.php:49 inc/plugins/wie.php:43
+#: inc/plugins/woocommerce.php:42
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:43 inc/plugins/medical-toolkit.php:50
+#: inc/plugins/wie.php:44 inc/plugins/woocommerce.php:43
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:44 inc/plugins/class-tgm-plugin-activation.php:340
+#: inc/plugins/medical-toolkit.php:51 inc/plugins/wie.php:45
+#: inc/plugins/woocommerce.php:44
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:45 inc/plugins/class-tgm-plugin-activation.php:345
+#: inc/plugins/medical-toolkit.php:52 inc/plugins/wie.php:46
+#: inc/plugins/woocommerce.php:45
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:46 inc/plugins/medical-toolkit.php:53
+#: inc/plugins/wie.php:47 inc/plugins/woocommerce.php:46
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:47 inc/plugins/class-tgm-plugin-activation.php:325
+#: inc/plugins/medical-toolkit.php:54 inc/plugins/wie.php:48
+#: inc/plugins/woocommerce.php:47
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:48 inc/plugins/medical-toolkit.php:55
+#: inc/plugins/wie.php:49 inc/plugins/woocommerce.php:48
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:49 inc/plugins/class-tgm-plugin-activation.php:355
+#: inc/plugins/medical-toolkit.php:56 inc/plugins/wie.php:50
+#: inc/plugins/woocommerce.php:49
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:50 inc/plugins/class-tgm-plugin-activation.php:365
+#: inc/plugins/medical-toolkit.php:57 inc/plugins/wie.php:51
+#: inc/plugins/woocommerce.php:50
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/cf7.php:51 inc/plugins/class-tgm-plugin-activation.php:370
+#: inc/plugins/medical-toolkit.php:58 inc/plugins/wie.php:52
+#: inc/plugins/woocommerce.php:51
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/cf7.php:52 inc/plugins/class-tgm-plugin-activation.php:372
+#: inc/plugins/class-tgm-plugin-activation.php:3082
+#: inc/plugins/medical-toolkit.php:59 inc/plugins/wie.php:53
+#: inc/plugins/woocommerce.php:52
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/cf7.php:53 inc/plugins/medical-toolkit.php:60
+#: inc/plugins/wie.php:54 inc/plugins/woocommerce.php:53
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:320
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:350
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:360
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:371
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:373
+#: inc/plugins/class-tgm-plugin-activation.php:2902
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:375
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:376
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:377
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:378
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:496
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:497
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:614
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:813
+#: inc/plugins/class-tgm-plugin-activation.php:3500
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:928
+#: inc/plugins/class-tgm-plugin-activation.php:932
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:932
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1117
+#: inc/plugins/class-tgm-plugin-activation.php:2898
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1939
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2220
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2223
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2240
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2244
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2248
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2267
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2271
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2273
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2279
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2282
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2285
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2293
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2346
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2350
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2354
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2447
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2455
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2463
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2475
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2499
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2515
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2516
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2517
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2521
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2522
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2558
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2564
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2570
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2641
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2674
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2680
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2683
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2715
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2717
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2753
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2755
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2859
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2884
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3081
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3420
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3424
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3425
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3429
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3430
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3430
+#: inc/plugins/class-tgm-plugin-activation.php:3437
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3430
+#: inc/plugins/class-tgm-plugin-activation.php:3437
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3431
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3432
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3436
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3437
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3438
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3439
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/theme-options.php:148
+msgid "General"
+msgstr ""
+
+#: inc/theme-options.php:149
+msgid "<p>For help access https://wplook.com/help</p>"
+msgstr ""
+
+#: inc/theme-options.php:163
+msgid "General settings"
+msgstr ""
+
+#: inc/theme-options.php:173
+msgid "Toolbar"
+msgstr ""
+
+#: inc/theme-options.php:183
+msgid "Services"
+msgstr ""
+
+#: inc/theme-options.php:193
+msgid "Doctors"
+msgstr ""
+
+#: inc/theme-options.php:203
+msgid "Departments"
+msgstr ""
+
+#: inc/theme-options.php:213
+msgid "Sidebars"
+msgstr ""
+
+#: inc/theme-options.php:223 inc/theme-options.php:739
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/theme-options.php:233
+msgid "\"Book Now\" advertisement"
+msgstr ""
+
+#: inc/theme-options.php:243
+msgid "Slider"
+msgstr ""
+
+#: inc/theme-options.php:252
+msgid "Blog page"
+msgstr ""
+
+#: inc/theme-options.php:262
+msgid "Custom Code"
+msgstr ""
+
+#: inc/theme-options.php:276
+msgid "Logo Image"
+msgstr ""
+
+#: inc/theme-options.php:279
+msgid "Upload your own logo. Maximum image size: 280x60px;"
+msgstr ""
+
+#: inc/theme-options.php:289
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme-options.php:292
+msgid ""
+"Upload your favicon.<br/><br/><strong>NOTICE:</strong> Use .png image type. "
+"You can generate a favicon <a target=\"_blank\" href=\"http://www.favicon.cc"
+"\">here</a>"
+msgstr ""
+
+#: inc/theme-options.php:302 inc/theme-options.php:495
+#: inc/theme-options.php:580 inc/theme-options.php:638
+msgid "Default header image"
+msgstr ""
+
+#: inc/theme-options.php:305 inc/theme-options.php:498
+#: inc/theme-options.php:583 inc/theme-options.php:641
+msgid ""
+"The header image to be displayed if a header image isn't set for that "
+"specific post.<br/><br/>Recommended image size: 2500px x 1660px"
+msgstr ""
+
+#: inc/theme-options.php:315
+msgid "Activate Breadcrumbs"
+msgstr ""
+
+#: inc/theme-options.php:318
+msgid "Activate the Breadcrumbs on site"
+msgstr ""
+
+#: inc/theme-options.php:328
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-options.php:331
+msgid "Enter your Copyright notice displayed in the footer of the website."
+msgstr ""
+
+#: inc/theme-options.php:345
+msgid "Enable/disable the toolbar"
+msgstr ""
+
+#: inc/theme-options.php:348
+msgid "Enable or disable the toolbar"
+msgstr ""
+
+#: inc/theme-options.php:358
+msgid "Welcome message"
+msgstr ""
+
+#: inc/theme-options.php:361
+msgid "Enter your welcome message displayed at the top of every page."
+msgstr ""
+
+#: inc/theme-options.php:371
+msgid "Social Network Navigation"
+msgstr ""
+
+#: inc/theme-options.php:374
+msgid ""
+"Press the <strong>Add New</strong> button in order to add social media links."
+msgstr ""
+
+#: inc/theme-options.php:377
+msgid "URL"
+msgstr ""
+
+#: inc/theme-options.php:380
+msgid ""
+"Enter the URL of the social network site, for example: http://www.facebook."
+"com/wplookthemes"
+msgstr ""
+
+#: inc/theme-options.php:389
+msgid "Icon"
+msgstr ""
+
+#: inc/theme-options.php:392
+msgid ""
+"<strong>NOTICE</strong>: Choose one item from the following list: <br />fa "
+"fa-facebook, <br />fa fa-github, <br />fa fa-twitter, <br />fa fa-pinterest, "
+"<br />fa fa-linkedin, <br />fa fa-google-plus, <br />fa fa-youtube, <br />fa "
+"fa-skype, <br />fa fa-vk, <br />fa fa-vimeo-square"
+msgstr ""
+
+#: inc/theme-options.php:411
+msgid "Phone Number"
+msgstr ""
+
+#: inc/theme-options.php:414
+msgid "Add the phone number."
+msgstr ""
+
+#: inc/theme-options.php:424
+msgid "Button Title"
+msgstr ""
+
+#: inc/theme-options.php:427
+msgid "The text to display on the blue button in the header."
+msgstr ""
+
+#: inc/theme-options.php:437
+msgid "Button URL"
+msgstr ""
+
+#: inc/theme-options.php:440
+msgid "The URL to which the button should link."
+msgstr ""
+
+#: inc/theme-options.php:455
+msgid "Number of Services per page"
+msgstr ""
+
+#: inc/theme-options.php:458
+msgid "Set how many Services do you want to display per page."
+msgstr ""
+
+#: inc/theme-options.php:468 inc/theme-options.php:553
+#: inc/theme-options.php:651
+msgid "URL Rewrite"
+msgstr ""
+
+#: inc/theme-options.php:471 inc/theme-options.php:485
+#: inc/theme-options.php:556 inc/theme-options.php:570
+#: inc/theme-options.php:654
+msgid ""
+"<strong>NOTE:</strong> After changing this field go to Settings > Permalinks "
+"> Save Changes"
+msgstr ""
+
+#: inc/theme-options.php:482 inc/theme-options.php:567
+msgid "Category URL Rewrite"
+msgstr ""
+
+#: inc/theme-options.php:508
+msgid "\"All Services\" icon"
+msgstr ""
+
+#: inc/theme-options.php:511
+#, php-format
+msgid ""
+"The icon will represent \"All Services\" in the front-end of the site. "
+"<br><br>You can also use icons from %1$sFont Awesome%2$s. Select an icon and "
+"use it's <i>class</i>, like <code>fa fa-user-md</code> in the input field."
+msgstr ""
+
+#: inc/theme-options.php:522
+msgid "\"All services\" link"
+msgstr ""
+
+#: inc/theme-options.php:525
+msgid ""
+"What page \"All services\" should link to on the Services listing template."
+msgstr ""
+
+#: inc/theme-options.php:540
+msgid "Number of doctors per page"
+msgstr ""
+
+#: inc/theme-options.php:543
+msgid "Set how many doctors do you want to display per page."
+msgstr ""
+
+#: inc/theme-options.php:593
+msgid "\"All Doctors\" icon"
+msgstr ""
+
+#: inc/theme-options.php:596
+#, php-format
+msgid ""
+"The icon will represent \"All Doctors\" in the front-end of the site. "
+"<br><br>You can also use icons from %1$sFont Awesome%2$s. Select an icon and "
+"use it's <i>class</i>, like <code>fa fa-user-md</code> in the input field."
+msgstr ""
+
+#: inc/theme-options.php:607
+msgid "\"All doctors\" link"
+msgstr ""
+
+#: inc/theme-options.php:610
+msgid ""
+"What page \"All doctors\" should link to on the Doctors listing template."
+msgstr ""
+
+#: inc/theme-options.php:620
+msgid "Display featured image on single doctor pages"
+msgstr ""
+
+#: inc/theme-options.php:669
+msgid "Add Custom Sidebars"
+msgstr ""
+
+#: inc/theme-options.php:672
+msgid ""
+"Press the <strong>Add New</strong> button in order to add a new widget area."
+msgstr ""
+
+#: inc/theme-options.php:675
+msgid "Widget area Name"
+msgstr ""
+
+#: inc/theme-options.php:678
+msgid "Add a name for the Widget area."
+msgstr ""
+
+#: inc/theme-options.php:687
+msgid "Widget area ID"
+msgstr ""
+
+#: inc/theme-options.php:690
+msgid "Add a unique ID for this widget area."
+msgstr ""
+
+#: inc/theme-options.php:699
+msgid "Widget area Description"
+msgstr ""
+
+#: inc/theme-options.php:702
+msgid "Description for this widget area."
+msgstr ""
+
+#: inc/theme-options.php:720
+msgid "Number of footer widget areas"
+msgstr ""
+
+#: inc/theme-options.php:723
+msgid ""
+"How many footer widget areas should be made available for use in Widget "
+"settings. The theme will adjust the widths of the footer widget areas based "
+"on this setting."
+msgstr ""
+
+#: inc/theme-options.php:742
+msgid ""
+"Google Fonts allow you to include custom web fonts on your pages. Preview "
+"available fonts at <a href=\"https://www.google.com/fonts/\">https://www."
+"google.com/fonts/</a>. It is recommended that for all the fonts you use, you "
+"include the <code>regular</code> and <code>latin</code> variants so every "
+"font uses a standard width and a Latin character set."
+msgstr ""
+
+#: inc/theme-options.php:747
+msgid "Select fonts"
+msgstr ""
+
+#: inc/theme-options.php:750
+msgid ""
+"Select what fonts to include from Google Fonts here and choose where to use "
+"them in the section below.<br><br>For the fonts to appear in the section "
+"below, you must save changes after selecting fonts in this section."
+"<br><br>To increase the speed of your site, include only the font variants "
+"you know you'll need. These fonts will be loaded regardless of whether or "
+"not they're used in the sections below, so make sure you delete any fonts "
+"you no longer need."
+msgstr ""
+
+#: inc/theme-options.php:760
+msgid "Change body font"
+msgstr ""
+
+#: inc/theme-options.php:763
+msgid "Do you want to change the body font?"
+msgstr ""
+
+#: inc/theme-options.php:773
+msgid "Body font"
+msgstr ""
+
+#: inc/theme-options.php:776
+msgid ""
+"Select the main font to use on the site. Don't change these settings if you "
+"don't want to -- if you don't change them, default theme values will be used."
+msgstr ""
+
+#: inc/theme-options.php:787
+msgid "Change heading font"
+msgstr ""
+
+#: inc/theme-options.php:790
+msgid "Do you want to change the heading font?"
+msgstr ""
+
+#: inc/theme-options.php:800
+msgid "Heading font"
+msgstr ""
+
+#: inc/theme-options.php:803
+msgid ""
+"Select the main font to use for headings. Don't change these settings if you "
+"don't want to -- if you don't change them, default theme values will be used."
+msgstr ""
+
+#: inc/theme-options.php:814
+msgid "Change menu font"
+msgstr ""
+
+#: inc/theme-options.php:817
+msgid "Do you want to change the menu font?"
+msgstr ""
+
+#: inc/theme-options.php:827
+msgid "Menu font"
+msgstr ""
+
+#: inc/theme-options.php:830
+msgid ""
+"Select the main font to use for the header menu. Don't change these settings "
+"if you don't want to -- if you don't change them, default theme values will "
+"be used."
+msgstr ""
+
+#: inc/theme-options.php:846
+msgid "Enable the \"Book Now\" advertisement"
+msgstr ""
+
+#: inc/theme-options.php:849
+msgid ""
+"Whether to show the \"Book Now\" advertisement at the bottom of the page."
+msgstr ""
+
+#: inc/theme-options.php:859
+msgid "\"Book Now\" page"
+msgstr ""
+
+#: inc/theme-options.php:862
+msgid "Where the \"Book Now\" button will link to."
+msgstr ""
+
+#: inc/theme-options.php:872
+msgid "Title"
+msgstr ""
+
+#: inc/theme-options.php:875
+msgid "Main text appearing in the \"Book Now\" advertisement."
+msgstr ""
+
+#: inc/theme-options.php:876
+msgid "Book your appointment"
+msgstr ""
+
+#: inc/theme-options.php:885
+msgid "Subtitle"
+msgstr ""
+
+#: inc/theme-options.php:888
+msgid "Supplementary text appearing in the \"Book Now\" advertisement."
+msgstr ""
+
+#: inc/theme-options.php:898
+msgid "Button text"
+msgstr ""
+
+#: inc/theme-options.php:901
+msgid ""
+"Text appearing on the button linking to a page on the \"Book Now\" "
+"advertisement."
+msgstr ""
+
+#: inc/theme-options.php:911
+msgid "Doctor image"
+msgstr ""
+
+#: inc/theme-options.php:914
+msgid ""
+"The image displayed alongside the advertisement. Recommended size: 120px x "
+"120px."
+msgstr ""
+
+#: inc/theme-options.php:929
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/theme-options.php:932
+#, php-format
+msgid ""
+"Activate the Revolution Slider. Revolution Slider is not included in the "
+"theme. You can buy it from <a href=\"%1$s\" target=\"_blank\">CodeCanyon</a>."
+msgstr ""
+
+#: inc/theme-options.php:942
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: inc/theme-options.php:945
+msgid ""
+"Revolution Slider Alias. If you have installed the revolution slider Plugin, "
+"add the Slider Alias here. From this example [rev_slider <strong>test</"
+"strong>] you need to add only the word <strong>test</strong>."
+msgstr ""
+
+#: inc/theme-options.php:956
+msgid "Default theme slider"
+msgstr ""
+
+#: inc/theme-options.php:959
+msgid "Display the default theme slider on the home page."
+msgstr ""
+
+#: inc/theme-options.php:969
+msgid "Enable automatic slideshow"
+msgstr ""
+
+#: inc/theme-options.php:972
+msgid ""
+"Whether to move the slides in the WPlook home page slider automatically or "
+"let users navigate the slider using on screen arrows."
+msgstr ""
+
+#: inc/theme-options.php:987
+msgid "Display featured images"
+msgstr ""
+
+#: inc/theme-options.php:990
+msgid ""
+"Display featured images on post listing pages (such as the \"Posts page\" "
+"set in the Reading settings)."
+msgstr ""
+
+#: inc/theme-options.php:1005
+msgid "Custom Cascading Style Sheets"
+msgstr ""
+
+#: inc/theme-options.php:1008
+msgid "Add custom CSS to your theme."
+msgstr ""
+
+#: inc/update.php:24
+#, php-format
+msgid "%1$s Updates"
+msgstr ""
+
+#: inc/update.php:25
+msgid "Theme Updates"
+msgstr ""
+
+#: inc/update.php:96
+#, php-format
+msgid "%1$s - Theme Updates"
+msgstr ""
+
+#: inc/update.php:99
+#, php-format
+msgid ""
+"A newer version of the %1$s theme, %2$s, is now available to download from "
+"WPlook Studio."
+msgstr ""
+
+#: inc/update.php:105
+msgid "Update the theme"
+msgstr ""
+
+#: inc/update.php:107
+msgid ""
+"<strong>Note:</strong> Make sure to make a backup of the theme and your "
+"WordPress site before updating the theme. Your content and settings will be "
+"preserved during the update, but it's important to have backups in case "
+"something goes wrong."
+msgstr ""
+
+#: inc/update.php:111
+msgid ""
+"<strong>Note:</strong> You are using a multisite installation of WordPress. "
+"This means you might be on an installation of WordPress managed by someone "
+"else and might not be able to install themes yourself. If this is the case, "
+"and you do not have access to the theme files, contact your administrator "
+"about performing the update to get the latest and greatest features of this "
+"theme."
+msgstr ""
+
+#: inc/update.php:115
+msgid "Manual theme update via FTP"
+msgstr ""
+
+#: inc/update.php:117 inc/update.php:124
+msgid ""
+"Download the latest version of the theme from the <a href=\"https://wplook."
+"com/my-account/\">WPlook Studio site</a>."
+msgstr ""
+
+#: inc/update.php:118
+#, php-format
+msgid ""
+"Login to your FTP account and navigate to <code>wp-content/themes</code>. "
+"Delete the theme folder called <code>%1$s</code>."
+msgstr ""
+
+#: inc/update.php:119
+#, php-format
+msgid ""
+"Extract the downloaded archive and upload the <code>%1$s</code> folder from "
+"your computer into the <code>wp-content/themes</code> folder on your server."
+msgstr ""
+
+#: inc/update.php:122
+msgid "Manual theme update via WordPress"
+msgstr ""
+
+#: inc/update.php:125
+msgid ""
+"Login to your WordPress dashboard, head over to Appearance &rarr; Themes."
+msgstr ""
+
+#: inc/update.php:126
+#, php-format
+msgid "Activate another theme and delete the %1$s theme."
+msgstr ""
+
+#: inc/update.php:127
+#, php-format
+msgid ""
+"Head over to Appearance &rarr; Themes &rarr; Add New and upload <code>%1$s."
+"zip</code>."
+msgstr ""
+
+#: inc/update.php:128
+#, php-format
+msgid "Activate the %1$s theme."
+msgstr ""
+
+#: inc/update.php:131
+msgid "Information and support"
+msgstr ""
+
+#: inc/update.php:132
+msgid ""
+"If you have made any changes to the theme files, make sure to back those up "
+"and restore them after the update has completed. In the future, you should "
+"consider using <a href=\"https://codex.wordpress.org/Child_Themes\">child "
+"themes</a> to ensure you can update safety without overwriting your changes."
+msgstr ""
+
+#: inc/update.php:133
+msgid ""
+"If you have any questions about theme updates, please do not hesitate to <a "
+"href=\"https://wplook.com/help\">contact us</a>."
+msgstr ""
+
+#: inc/update.php:135
+#, php-format
+msgid "%1$s changelog"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:22
+msgid "WPlook About us (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:23
+msgid "Display information about your organisation on the front page"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:85 inc/widgets/widget-businesshours.php:72
+#: inc/widgets/widget-cf7-home.php:62 inc/widgets/widget-contact-details.php:52
+#: inc/widgets/widget-contact.php:55 inc/widgets/widget-departments-home.php:55
+#: inc/widgets/widget-doctors-home.php:90 inc/widgets/widget-newsletter.php:48
+#: inc/widgets/widget-posts-home.php:77 inc/widgets/widget-posts.php:57
+#: inc/widgets/widget-services-home.php:97 inc/widgets/widget-social.php:122
+#: inc/widgets/widget-testimonials-home.php:71
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:90 inc/widgets/widget-cf7-home.php:67
+#: inc/widgets/widget-contact.php:60 inc/widgets/widget-departments-home.php:60
+#: inc/widgets/widget-doctors-home.php:95 inc/widgets/widget-newsletter.php:53
+#: inc/widgets/widget-posts-home.php:82
+#: inc/widgets/widget-services-home.php:102
+msgid "Subtitle:"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:97 inc/widgets/widget-cf7-home.php:74
+#: inc/widgets/widget-departments-home.php:67
+#: inc/widgets/widget-doctors-home.php:102 inc/widgets/widget-posts-home.php:89
+#: inc/widgets/widget-services-home.php:109
+#: inc/widgets/widget-testimonials-home.php:83
+msgid "Icon:"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:106
+msgid "Highlighted text:"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:111
+msgid "Text:"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:116
+#: inc/widgets/widget-doctors-home.php:111 inc/widgets/widget-posts-home.php:98
+#: inc/widgets/widget-services-home.php:123
+msgid "Link:"
+msgstr ""
+
+#: inc/widgets/widget-about-home.php:121
+#: inc/widgets/widget-doctors-home.php:116
+#: inc/widgets/widget-posts-home.php:103
+#: inc/widgets/widget-services-home.php:128
+msgid "Link text:"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:22
+msgid "WPlook Business Hours"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:23
+msgid "A widget for displaying Business Hours"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:32
+msgid "Business Hours"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:79
+#: inc/widgets/widget-services-home.php:118
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:86
+#: inc/widgets/widget-businesshours.php:153
+msgid "Monday - Friday:"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:88
+#: inc/widgets/widget-businesshours.php:95
+#: inc/widgets/widget-businesshours.php:102
+msgid "Add start and end times"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:93
+#: inc/widgets/widget-businesshours.php:163
+msgid "Saturday:"
+msgstr ""
+
+#: inc/widgets/widget-businesshours.php:100
+#: inc/widgets/widget-businesshours.php:173
+msgid "Sunday:"
+msgstr ""
+
+#: inc/widgets/widget-cf7-home.php:22
+msgid "WPlook Contact Form 7 (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-cf7-home.php:23
+msgid "A widget for displaying a Contact Form 7 on the front page"
+msgstr ""
+
+#: inc/widgets/widget-cf7-home.php:36 inc/widgets/widget-contact.php:36
+msgid "Book an appointment"
+msgstr ""
+
+#: inc/widgets/widget-cf7-home.php:43 inc/widgets/widget-contact.php:43
+msgid "It's easy and fast"
+msgstr ""
+
+#: inc/widgets/widget-cf7-home.php:83 inc/widgets/widget-contact.php:65
+msgid "Contact form:"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:22
+msgid "WPlook Contact Us"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:23
+msgid "A widget for displaying contact information"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:57
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:62
+msgid "Mobile phone number:"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:67
+msgid "Telephone number:"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:72
+#: inc/widgets/widget-contact-details.php:144
+msgid "Email address:"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:126
+msgid "Mobile phone:"
+msgstr ""
+
+#: inc/widgets/widget-contact-details.php:135
+msgid "Telephone:"
+msgstr ""
+
+#: inc/widgets/widget-contact.php:22
+msgid "WPlook Book Appointment"
+msgstr ""
+
+#: inc/widgets/widget-contact.php:23
+msgid "A widget for displaying a Book Appointment contact form"
+msgstr ""
+
+#: inc/widgets/widget-departments-home.php:21
+msgid "WPlook Departments (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-departments-home.php:22
+msgid "A widget for displaying Departments on the front page"
+msgstr ""
+
+#: inc/widgets/widget-departments-home.php:35
+msgid "Our departments"
+msgstr ""
+
+#: inc/widgets/widget-departments-home.php:42
+#: inc/widgets/widget-doctors-home.php:43
+msgid "We are reliable and trusted"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:22
+msgid "WPlook Departments"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:23
+msgid "A widget for displaying Departments"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:50
+msgid "Maximum number of Services:"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:52
+msgid ""
+"Maximum number of services you want to display, regardless of how many have "
+"been selected"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:56
+msgid "Random?:"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:58
+msgid "Whether you want to display the services in random order"
+msgstr ""
+
+#: inc/widgets/widget-departments.php:61
+msgid "Pick what you want displayed here by editing individual departments"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:22
+msgid "WPlook Doctors (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:23
+msgid "A widget for displaying Doctors on the front page"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:36
+msgid "Qualified doctors"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:64
+msgid "Click to view all doctors"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:71
+#: inc/widgets/widget-doctors-home.php:129 inc/widgets/widget-posts-home.php:72
+#: inc/widgets/widget-posts-home.php:116 inc/widgets/widget-posts.php:45
+#: inc/widgets/widget-posts.php:70 inc/widgets/widget-services-home.php:78
+#: inc/widgets/widget-services-home.php:141
+msgid "All"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:78
+msgid "3"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:122
+#: inc/widgets/widget-posts-home.php:109 inc/widgets/widget-posts.php:63
+#: inc/widgets/widget-services-home.php:134
+msgid "Category:"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:139
+#: inc/widgets/widget-services-home.php:151
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:141
+#: inc/widgets/widget-services-home.php:153
+msgid "The number of posts you want to display."
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:145
+#: inc/widgets/widget-services-home.php:157
+msgid "Order by:"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:147
+#: inc/widgets/widget-services-home.php:159
+#: inc/widgets/widget-testimonials-home.php:100
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/widget-doctors-home.php:148
+#: inc/widgets/widget-services-home.php:160
+#: inc/widgets/widget-testimonials-home.php:101
+msgid "Latest"
+msgstr ""
+
+#: inc/widgets/widget-init.php:41
+msgid "Home page widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:43
+msgid ""
+"Widgets in this area will be shown only on the Home Page Template. This is a "
+"full width widget."
+msgstr ""
+
+#: inc/widgets/widget-init.php:56
+msgid "Page Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:58
+msgid "Widgets in this area will be shown on all Pages."
+msgstr ""
+
+#: inc/widgets/widget-init.php:71
+msgid "Blog Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:73
+msgid "Widgets in this area will be shown on all Posts."
+msgstr ""
+
+#: inc/widgets/widget-init.php:86
+msgid "Services Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:88
+msgid "Widgets in this area will be shown on all Services."
+msgstr ""
+
+#: inc/widgets/widget-init.php:101
+msgid "Doctors Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:103
+msgid "Widgets in this area will be shown on all Doctors pages."
+msgstr ""
+
+#: inc/widgets/widget-init.php:118
+msgid "Shopping Widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:120
+msgid "Widgets in this area will be shown on shop section."
+msgstr ""
+
+#: inc/widgets/widget-init.php:147
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:149
+msgid "The first footer widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:159
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:161
+msgid "The second footer widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:171
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:173
+msgid "The third footer widget area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:183
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: inc/widgets/widget-init.php:185
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:22
+msgid "WPlook Newsletter"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:23
+msgid "A widget for displaying a MailChimp newsletter form"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:58
+msgid "MailChimp POST subscribe URL:"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:64
+msgid ""
+"To find the POST subscribe URL, go to \"Lists\" > Select List Name > Signup "
+"Forms > Embedded forms > Copy Form Action"
+msgstr ""
+
+#: inc/widgets/widget-newsletter.php:110
+msgid "Your email address"
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:22
+msgid "WPlook Posts (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:23
+msgid "A widget for displaying latest posts on home page"
+msgstr ""
+
+#: inc/widgets/widget-posts-home.php:37 inc/widgets/widget-posts-home.php:44
+#: inc/widgets/widget-posts.php:37
+msgid "Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:22
+msgid "WPlook Posts"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:23
+msgid "A widget for displaying latest posts"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:52 inc/widgets/widget-testimonials-home.php:58
+msgid "4"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:80
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets/widget-posts.php:82
+msgid "Number of posts you want to display"
+msgstr ""
+
+#: inc/widgets/widget-services-home.php:22
+msgid "WPlook Services (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-services-home.php:23
+msgid "A widget for displaying Services on the front page"
+msgstr ""
+
+#: inc/widgets/widget-services-home.php:36 single-wpl_post_departments.php:113
+#: single-wpl_post_services.php:43
+msgid "Our services"
+msgstr ""
+
+#: inc/widgets/widget-services-home.php:43
+msgid "Services at a glance"
+msgstr ""
+
+#: inc/widgets/widget-services-home.php:85
+msgid "10"
+msgstr ""
+
+#: inc/widgets/widget-social.php:22
+msgid "WPlook Social"
+msgstr ""
+
+#: inc/widgets/widget-social.php:23
+msgid "A widget for displaying social networking links"
+msgstr ""
+
+#: inc/widgets/widget-social.php:130
+msgid "Twitter:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:134
+msgid "Insert the full URL of your Twitter profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:141
+msgid "Facebook:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:145
+msgid "Insert the full URL of your Facebook profile, page or group."
+msgstr ""
+
+#: inc/widgets/widget-social.php:152
+msgid "RSS:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:156
+msgid ""
+"Insert the URL of your RSS feed. You may include your RSS feed from "
+"Feedburner."
+msgstr ""
+
+#: inc/widgets/widget-social.php:163
+msgid "Google+:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:167
+msgid "Insert the full URL of your Google+ profile"
+msgstr ""
+
+#: inc/widgets/widget-social.php:174
+msgid "YouTube:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:178
+msgid "Insert the full URL of your YouTube profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:185
+msgid "Vimeo:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:189
+msgid "Insert the full URL of your Vimeo profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:196
+msgid "Last.fm:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:200
+msgid "Insert the full URL of your Last.fm profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:207
+msgid "Soundcloud:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:211
+msgid "Insert the full URL of your SoundCloud profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:218
+msgid "Pinterest:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:222
+msgid "Insert the full URL of your Pinterest profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:229
+msgid "Flickr:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:233
+msgid "Insert the full URL of your Flickr profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:240
+msgid "LinkedIn:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:244
+msgid "Insert the full URL of your LinkedIn profile."
+msgstr ""
+
+#: inc/widgets/widget-social.php:251
+msgid "Instagram:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:255
+msgid "Insert the full URL of your Instagram profile."
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:22
+msgid "WPlook Testimonials (Front page)"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:23
+msgid "A widget for displaying Testimonials."
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:37 template-testimonials.php:58
+msgid "What our patients have to say"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:44
+msgid "We are reliable & trusted"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:65
+msgid "random"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:76
+msgid "subtitle:"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:92
+msgid "Number of testimonials:"
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:94
+msgid "The number of testimonials you want to display."
+msgstr ""
+
+#: inc/widgets/widget-testimonials-home.php:98
+msgid "Order:"
+msgstr ""
+
+#: index.php:42
+msgid "What's new"
+msgstr ""
+
+#: index.php:44
+msgid "Latest news"
+msgstr ""
+
+#: search.php:18
+msgid "Search results for"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search for..."
+msgstr ""
+
+#: single-wpl_post_departments.php:41
+msgid "Department"
+msgstr ""
+
+#: single-wpl_post_departments.php:94
+msgid "Our doctors"
+msgstr ""
+
+#: template-testimonials.php:60
+msgid "We are reliable &amp; Trusted"
+msgstr ""
+
+#: woocommerce.php:57
+msgid "View your shopping cart"
+msgstr ""

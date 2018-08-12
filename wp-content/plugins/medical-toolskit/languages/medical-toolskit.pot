@@ -1,0 +1,1148 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Health & Medical Toolkit 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/medical-toolskit\n"
+"POT-Creation-Date: 2015-12-23 00:35:38+00:00\n"
+"POT-Revision-Date: Tue Jan 19 2016 21:34:58 GMT-0500 (EST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Plugin Name of the plugin/theme
+msgid "Health & Medical Toolkit"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wplook.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Health & Medical Toolkit for Health & Medical WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPlook Studio"
+msgstr ""
+
+#: ../medical-toolskit.php:154
+msgid "You need to Install and Activate the Option Tree Plugin"
+msgstr ""
+
+#: ../medical-toolskit.php:168
+msgid "Support"
+msgstr ""
+
+#: ../cpt/doctors.php:57
+msgctxt "Post Type General Name"
+msgid "Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:58
+msgctxt "Post Type Singular Name"
+msgid "Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:59
+msgid "Doctors"
+msgstr ""
+
+#: ../cpt/doctors.php:60 ../cpt/doctors.php:80 ../inc/library.php:37
+msgid "Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:61 ../cpt/testimonials.php:38 ../cpt/slider.php:49
+msgid "Parent Item:"
+msgstr ""
+
+#: ../cpt/doctors.php:62
+msgid "All Doctors"
+msgstr ""
+
+#: ../cpt/doctors.php:63
+msgid "Add New Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:64
+msgid "Add Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:65
+msgid "New Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:66
+msgid "Edit Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:67
+msgid "Update Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:68
+msgid "View Doctor"
+msgstr ""
+
+#: ../cpt/doctors.php:69
+msgid "Search Doctors"
+msgstr ""
+
+#: ../cpt/doctors.php:70 ../cpt/services.php:73 ../cpt/departments.php:62 ..
+#: /cpt/testimonials.php:47
+msgid "Not found"
+msgstr ""
+
+#: ../cpt/doctors.php:71 ../cpt/services.php:74 ../cpt/departments.php:63 ..
+#: /cpt/testimonials.php:48
+msgid "Not found in Trash"
+msgstr ""
+
+#: ../cpt/doctors.php:81
+msgid "Doctor Description"
+msgstr ""
+
+#: ../cpt/doctors.php:124
+msgctxt "Taxonomy General Name"
+msgid "Doctor Categories"
+msgstr ""
+
+#: ../cpt/doctors.php:125
+msgctxt "Taxonomy Singular Name"
+msgid "Doctor Category"
+msgstr ""
+
+#: ../cpt/doctors.php:126
+msgid "Doctor Categories"
+msgstr ""
+
+#: ../cpt/doctors.php:127
+msgid "All Categories"
+msgstr ""
+
+#: ../cpt/doctors.php:128
+msgid "Parent Category"
+msgstr ""
+
+#: ../cpt/doctors.php:129
+msgid "Parent Category:"
+msgstr ""
+
+#: ../cpt/doctors.php:130
+msgid "New Category Name"
+msgstr ""
+
+#: ../cpt/doctors.php:131
+msgid "Add New Category"
+msgstr ""
+
+#: ../cpt/doctors.php:132
+msgid "Edit Category"
+msgstr ""
+
+#: ../cpt/doctors.php:133
+msgid "Update Category"
+msgstr ""
+
+#: ../cpt/doctors.php:134
+msgid "View Category"
+msgstr ""
+
+#: ../cpt/doctors.php:135
+msgid "Separate items with commas"
+msgstr ""
+
+#: ../cpt/doctors.php:136
+msgid "Add or remove items"
+msgstr ""
+
+#: ../cpt/doctors.php:137 ../cpt/services.php:140
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../cpt/doctors.php:138
+msgid "Popular Categories"
+msgstr ""
+
+#: ../cpt/doctors.php:139
+msgid "Search Categories"
+msgstr ""
+
+#: ../cpt/doctors.php:140 ../cpt/services.php:143
+msgid "Not Found"
+msgstr ""
+
+#: ../cpt/doctors.php:171
+msgid "Additional Doctor Options"
+msgstr ""
+
+#: ../cpt/doctors.php:178
+msgid "Doctor Photo"
+msgstr ""
+
+#: ../cpt/doctors.php:181
+msgid "Add Doctor Photo"
+msgstr ""
+
+#: ../cpt/doctors.php:191
+msgid "Doctor Job Title"
+msgstr ""
+
+#: ../cpt/doctors.php:194
+msgid "Add the doctor's job title"
+msgstr ""
+
+#: ../cpt/doctors.php:204
+msgid "Social Network links"
+msgstr ""
+
+#: ../cpt/doctors.php:207
+msgid "Press the <strong>Add New</strong> button in order to add social media links."
+msgstr ""
+
+#: ../cpt/doctors.php:210
+msgid "URL"
+msgstr ""
+
+#: ../cpt/doctors.php:213
+msgid ""
+"Enter the URL of the social network site, for example: http://www.facebook."
+"com/stylishwp"
+msgstr ""
+
+#: ../cpt/doctors.php:222
+msgid "Icon"
+msgstr ""
+
+#: ../cpt/doctors.php:225
+msgid ""
+"Enter Font Awesome icon name, for example: fa-facebook, fa-twitter, fa-"
+"google-plus, fa-dribbble"
+msgstr ""
+
+#: ../cpt/doctors.php:243
+msgid "Opening times"
+msgstr ""
+
+#: ../cpt/doctors.php:246
+msgid "Press the <strong>Add New</strong> button in order to add opening hours."
+msgstr ""
+
+#: ../cpt/doctors.php:249
+msgid "Time"
+msgstr ""
+
+#: ../cpt/doctors.php:252
+msgid "Enter the times during which you are open on this day."
+msgstr ""
+
+#: ../cpt/doctors.php:285 ../cpt/doctors.php:302
+msgid "Category icon"
+msgstr ""
+
+#: ../cpt/doctors.php:287 ../cpt/doctors.php:305 ../cpt/services.php:200 ..
+#: /cpt/services.php:218 ../cpt/departments.php:114
+#, php-format
+msgid ""
+"The icon will represent the category in the front-end of the site. "
+"<br><br>You can also use icons from %1$sFont Awesome%2$s. Select an icon and "
+"use it's <i>class</i>, like <code>fa fa-user-md</code> in the input field."
+msgstr ""
+
+#: ../cpt/services.php:60
+msgctxt "Post Type General Name"
+msgid "Services"
+msgstr ""
+
+#: ../cpt/services.php:61
+msgctxt "Post Type Singular Name"
+msgid "Service"
+msgstr ""
+
+#: ../cpt/services.php:62 ../cpt/services.php:83
+msgid "Services"
+msgstr ""
+
+#: ../cpt/services.php:63
+msgid "Service"
+msgstr ""
+
+#: ../cpt/services.php:64
+msgid "Parent Service:"
+msgstr ""
+
+#: ../cpt/services.php:65
+msgid "All Services"
+msgstr ""
+
+#: ../cpt/services.php:66
+msgid "Add New Service"
+msgstr ""
+
+#: ../cpt/services.php:67 ../cpt/departments.php:56
+msgid "Add New"
+msgstr ""
+
+#: ../cpt/services.php:68
+msgid "New Service"
+msgstr ""
+
+#: ../cpt/services.php:69
+msgid "Edit Service"
+msgstr ""
+
+#: ../cpt/services.php:70
+msgid "Update Service"
+msgstr ""
+
+#: ../cpt/services.php:71
+msgid "View Service"
+msgstr ""
+
+#: ../cpt/services.php:72
+msgid "Search Service"
+msgstr ""
+
+#: ../cpt/services.php:84
+msgid "Allows you to create services"
+msgstr ""
+
+#: ../cpt/services.php:127
+msgctxt "Taxonomy General Name"
+msgid "Service Categories"
+msgstr ""
+
+#: ../cpt/services.php:128
+msgctxt "Taxonomy Singular Name"
+msgid "Service Category"
+msgstr ""
+
+#: ../cpt/services.php:129
+msgid "Service Categories"
+msgstr ""
+
+#: ../cpt/services.php:130
+msgid "All Service Categories"
+msgstr ""
+
+#: ../cpt/services.php:131
+msgid "Parent Service Category"
+msgstr ""
+
+#: ../cpt/services.php:132
+msgid "Parent Service Category:"
+msgstr ""
+
+#: ../cpt/services.php:133
+msgid "New Service Category Name"
+msgstr ""
+
+#: ../cpt/services.php:134
+msgid "Add New Service Category"
+msgstr ""
+
+#: ../cpt/services.php:135
+msgid "Edit Service Category"
+msgstr ""
+
+#: ../cpt/services.php:136
+msgid "Update Service Category"
+msgstr ""
+
+#: ../cpt/services.php:137
+msgid "View Service Category"
+msgstr ""
+
+#: ../cpt/services.php:138
+msgid "Separate service categories with commas"
+msgstr ""
+
+#: ../cpt/services.php:139
+msgid "Add or Remove Service Categories"
+msgstr ""
+
+#: ../cpt/services.php:141
+msgid "Popular Service Categories"
+msgstr ""
+
+#: ../cpt/services.php:142
+msgid "Search Service Categories"
+msgstr ""
+
+#: ../cpt/services.php:198 ../cpt/services.php:215
+msgid "Category image"
+msgstr ""
+
+#: ../cpt/departments.php:49
+msgctxt "Post Type General Name"
+msgid "Departments"
+msgstr ""
+
+#: ../cpt/departments.php:50
+msgctxt "Post Type Singular Name"
+msgid "Department"
+msgstr ""
+
+#: ../cpt/departments.php:51 ../cpt/departments.php:52
+msgid "Departments"
+msgstr ""
+
+#: ../cpt/departments.php:53
+msgid "Parent Department:"
+msgstr ""
+
+#: ../cpt/departments.php:54
+msgid "All Departments"
+msgstr ""
+
+#: ../cpt/departments.php:55
+msgid "Add New Department"
+msgstr ""
+
+#: ../cpt/departments.php:57
+msgid "New Department"
+msgstr ""
+
+#: ../cpt/departments.php:58
+msgid "Edit Department"
+msgstr ""
+
+#: ../cpt/departments.php:59
+msgid "Update Department"
+msgstr ""
+
+#: ../cpt/departments.php:60
+msgid "View Department"
+msgstr ""
+
+#: ../cpt/departments.php:61
+msgid "Search Departments"
+msgstr ""
+
+#: ../cpt/departments.php:72
+msgid "wpl_post_departments"
+msgstr ""
+
+#: ../cpt/departments.php:73
+msgid "Departments to which doctors can belong"
+msgstr ""
+
+#: ../cpt/departments.php:104
+msgid "Department Settings"
+msgstr ""
+
+#: ../cpt/departments.php:111
+msgid "Logo"
+msgstr ""
+
+#: ../cpt/departments.php:124
+msgid "Doctors category"
+msgstr ""
+
+#: ../cpt/departments.php:127
+msgid "Which category of doctors you want to display in this department."
+msgstr ""
+
+#: ../cpt/departments.php:136
+msgid "Services category"
+msgstr ""
+
+#: ../cpt/departments.php:139
+msgid "Which category of services you want to display in this department."
+msgstr ""
+
+#: ../cpt/departments.php:148
+msgid "Display in home page widget"
+msgstr ""
+
+#: ../cpt/departments.php:151
+msgid "Whether to feature this department in the Departments home page widget."
+msgstr ""
+
+#: ../cpt/departments.php:160
+msgid "Display in sidebar widget"
+msgstr ""
+
+#: ../cpt/departments.php:163
+msgid "Whether to feature this department in the Departments sidebar widget."
+msgstr ""
+
+#: ../cpt/testimonials.php:34
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: ../cpt/testimonials.php:35
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:36
+msgid "Testimonials"
+msgstr ""
+
+#: ../cpt/testimonials.php:37 ../cpt/testimonials.php:57
+msgid "Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:39
+msgid "All Testimonials"
+msgstr ""
+
+#: ../cpt/testimonials.php:40
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:41
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:42
+msgid "New Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:43
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:44
+msgid "Update Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:45
+msgid "View Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:46
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../cpt/testimonials.php:58
+msgid "Testimonial Description"
+msgstr ""
+
+#: ../cpt/testimonials.php:97
+msgid "Additional Testimonial Options"
+msgstr ""
+
+#: ../cpt/testimonials.php:104
+msgid "Referee's name"
+msgstr ""
+
+#: ../cpt/testimonials.php:115
+msgid "Referee's avatar"
+msgstr ""
+
+#: ../cpt/testimonials.php:127
+msgid "Company name"
+msgstr ""
+
+#: ../cpt/testimonials.php:139
+msgid "Company site URL"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:25
+msgid "Post/Page Options"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:32 ../cpt/meta-boxes.php:162
+msgid "Display header image"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:35 ../cpt/meta-boxes.php:165
+msgid "If disabled, the header image area will fall back to a purple background"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:45 ../cpt/meta-boxes.php:174
+msgid "Header image"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:48
+msgid ""
+"The image will be displayed in the header of the page, recommended "
+"dimensions: (1920 x 1080)"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:59
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:62
+msgid "Select the sidebar position. Chose No Sidebar for Full width page."
+msgstr ""
+
+#: ../cpt/meta-boxes.php:85
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:88
+msgid "Select a Sidebar"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:117 ../cpt/meta-boxes.php:155
+msgid "Page Options"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:124
+msgid "Home Page Template!"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:127
+msgid ""
+"This is the Home page template. Please go to Appearance > Widgets and add "
+"Widgets to home page widget area."
+msgstr ""
+
+#: ../cpt/meta-boxes.php:177
+msgid ""
+"The image will be displayed in the header of the page. Recommended "
+"dimensions: 2500px x 1667px"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:206
+msgid "Contact Page Options"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:213
+msgid "Display map"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:216
+msgid "Display a map on the contact page"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:224
+msgid "Address to be shown on map"
+msgstr ""
+
+#: ../cpt/meta-boxes.php:227
+msgid "Enter the address which is to be shown on the map."
+msgstr ""
+
+#: ../cpt/slider.php:34
+msgid "Home Page Slider"
+msgstr ""
+
+#: ../cpt/slider.php:35 ../cpt/slider.php:37
+msgid "Slide"
+msgstr ""
+
+#: ../cpt/slider.php:36
+msgid "Slides"
+msgstr ""
+
+#: ../cpt/slider.php:38 ../cpt/slider.php:39
+msgid "Add New Slide"
+msgstr ""
+
+#: ../cpt/slider.php:40
+msgid "Edit"
+msgstr ""
+
+#: ../cpt/slider.php:41
+msgid "Edit Slide"
+msgstr ""
+
+#: ../cpt/slider.php:42
+msgid "New Slide"
+msgstr ""
+
+#: ../cpt/slider.php:43
+msgid "View"
+msgstr ""
+
+#: ../cpt/slider.php:44
+msgid "View Slide"
+msgstr ""
+
+#: ../cpt/slider.php:45
+msgid "Search Slide"
+msgstr ""
+
+#: ../cpt/slider.php:46
+msgid "No Slide found"
+msgstr ""
+
+#: ../cpt/slider.php:47
+msgid "No Slide found in Trash"
+msgstr ""
+
+#: ../cpt/slider.php:48
+msgid "Parent Slide"
+msgstr ""
+
+#: ../cpt/slider.php:60
+msgid "Slider"
+msgstr ""
+
+#: ../cpt/slider.php:61
+msgid "Easily lets you create beautiful slides"
+msgstr ""
+
+#: ../cpt/slider.php:94
+msgid "Slider Options"
+msgstr ""
+
+#: ../cpt/slider.php:102
+msgid "Slide image"
+msgstr ""
+
+#: ../cpt/slider.php:105
+msgid ""
+"The image will be displayed in the header of the page (required dimensions: "
+"2560 x 1200)"
+msgstr ""
+
+#: ../cpt/slider.php:115
+msgid "Unhighlighted title"
+msgstr ""
+
+#: ../cpt/slider.php:118
+msgid "Unhighlighted part of the slide title"
+msgstr ""
+
+#: ../cpt/slider.php:129
+msgid "Highlighted title"
+msgstr ""
+
+#: ../cpt/slider.php:132
+msgid "Highligted part of the slide title"
+msgstr ""
+
+#: ../cpt/slider.php:143
+msgid "Subtitle"
+msgstr ""
+
+#: ../cpt/slider.php:157
+msgid "Content"
+msgstr ""
+
+#: ../cpt/slider.php:160
+msgid "The main content displayed on the slide"
+msgstr ""
+
+#: ../cpt/slider.php:171
+msgid "Action button text"
+msgstr ""
+
+#: ../cpt/slider.php:174
+msgid "Add text to the button"
+msgstr ""
+
+#: ../cpt/slider.php:185
+msgid "Action button URL"
+msgstr ""
+
+#: ../cpt/slider.php:188
+msgid "Add button URL"
+msgstr ""
+
+#: ../inc/library.php:15
+msgid "Ambulance"
+msgstr ""
+
+#: ../inc/library.php:16
+msgid "Asclepius sign"
+msgstr ""
+
+#: ../inc/library.php:17
+msgid "Bacterium cells"
+msgstr ""
+
+#: ../inc/library.php:18
+msgid "Badge"
+msgstr ""
+
+#: ../inc/library.php:19
+msgid "Biohazard sign"
+msgstr ""
+
+#: ../inc/library.php:20
+msgid "Bladder"
+msgstr ""
+
+#: ../inc/library.php:21
+msgid "Blood pressure kit"
+msgstr ""
+
+#: ../inc/library.php:22
+msgid "Body scales"
+msgstr ""
+
+#: ../inc/library.php:23
+msgid "Bone joint"
+msgstr ""
+
+#: ../inc/library.php:24
+msgid "Brain"
+msgstr ""
+
+#: ../inc/library.php:25
+msgid "Broken pill"
+msgstr ""
+
+#: ../inc/library.php:26
+msgid "Bulb full"
+msgstr ""
+
+#: ../inc/library.php:27
+msgid "Bulb reaction"
+msgstr ""
+
+#: ../inc/library.php:28
+msgid "Bulb"
+msgstr ""
+
+#: ../inc/library.php:29
+msgid "Cell"
+msgstr ""
+
+#: ../inc/library.php:30
+msgid "Chromosome"
+msgstr ""
+
+#: ../inc/library.php:31
+msgid "Clinical record"
+msgstr ""
+
+#: ../inc/library.php:32
+msgid "Clyster"
+msgstr ""
+
+#: ../inc/library.php:33
+msgid "Cross"
+msgstr ""
+
+#: ../inc/library.php:34
+msgid "Crutches"
+msgstr ""
+
+#: ../inc/library.php:35
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/library.php:36
+msgid "Dna"
+msgstr ""
+
+#: ../inc/library.php:38
+msgid "Drop counter"
+msgstr ""
+
+#: ../inc/library.php:39
+msgid "Drop"
+msgstr ""
+
+#: ../inc/library.php:40
+msgid "Dropper"
+msgstr ""
+
+#: ../inc/library.php:41
+msgid "Drug blister"
+msgstr ""
+
+#: ../inc/library.php:42
+msgid "Drug bottle"
+msgstr ""
+
+#: ../inc/library.php:43
+msgid "Drugs"
+msgstr ""
+
+#: ../inc/library.php:44
+msgid "Ear"
+msgstr ""
+
+#: ../inc/library.php:45
+msgid "Emergency call"
+msgstr ""
+
+#: ../inc/library.php:46
+msgid "Emergency cross"
+msgstr ""
+
+#: ../inc/library.php:47
+msgid "Empty test tube"
+msgstr ""
+
+#: ../inc/library.php:48
+msgid "Eye drop"
+msgstr ""
+
+#: ../inc/library.php:49
+msgid "Eye sign"
+msgstr ""
+
+#: ../inc/library.php:50
+msgid "Eyeball"
+msgstr ""
+
+#: ../inc/library.php:51
+msgid "Facial plastic surgery 2"
+msgstr ""
+
+#: ../inc/library.php:52
+msgid "Facial plastic surgery"
+msgstr ""
+
+#: ../inc/library.php:53
+msgid "Female sign"
+msgstr ""
+
+#: ../inc/library.php:54
+msgid "Fertilization"
+msgstr ""
+
+#: ../inc/library.php:55
+msgid "Footsteps"
+msgstr ""
+
+#: ../inc/library.php:56
+msgid "Full test tube"
+msgstr ""
+
+#: ../inc/library.php:57
+msgid "Fungus cells"
+msgstr ""
+
+#: ../inc/library.php:58
+msgid "Glasses"
+msgstr ""
+
+#: ../inc/library.php:59
+msgid "Hand with patch"
+msgstr ""
+
+#: ../inc/library.php:60
+msgid "Heart attack"
+msgstr ""
+
+#: ../inc/library.php:61
+msgid "Heart checklist"
+msgstr ""
+
+#: ../inc/library.php:62
+msgid "Heart sign"
+msgstr ""
+
+#: ../inc/library.php:63
+msgid "Heart"
+msgstr ""
+
+#: ../inc/library.php:64
+msgid "Helicopter"
+msgstr ""
+
+#: ../inc/library.php:65
+msgid "Help"
+msgstr ""
+
+#: ../inc/library.php:66
+msgid "Hospital bed"
+msgstr ""
+
+#: ../inc/library.php:67
+msgid "Hospital sign"
+msgstr ""
+
+#: ../inc/library.php:68
+msgid "Hospital"
+msgstr ""
+
+#: ../inc/library.php:69
+msgid "Intestines"
+msgstr ""
+
+#: ../inc/library.php:70
+msgid "Kidneys"
+msgstr ""
+
+#: ../inc/library.php:71
+msgid "Liver"
+msgstr ""
+
+#: ../inc/library.php:72
+msgid "Lungs"
+msgstr ""
+
+#: ../inc/library.php:73
+msgid "Magnifying glass"
+msgstr ""
+
+#: ../inc/library.php:74
+msgid "Male sign"
+msgstr ""
+
+#: ../inc/library.php:75
+msgid "Medic"
+msgstr ""
+
+#: ../inc/library.php:76
+msgid "Medical alert"
+msgstr ""
+
+#: ../inc/library.php:77
+msgid "Medical checklist"
+msgstr ""
+
+#: ../inc/library.php:78
+msgid "Medicine chest"
+msgstr ""
+
+#: ../inc/library.php:79
+msgid "Men urogenital system"
+msgstr ""
+
+#: ../inc/library.php:80
+msgid "Microscope"
+msgstr ""
+
+#: ../inc/library.php:81
+msgid "Muscle"
+msgstr ""
+
+#: ../inc/library.php:82
+msgid "Nasopharynx"
+msgstr ""
+
+#: ../inc/library.php:83
+msgid "Neurology"
+msgstr ""
+
+#: ../inc/library.php:84
+msgid "Nurse cap"
+msgstr ""
+
+#: ../inc/library.php:85
+msgid "Nurse"
+msgstr ""
+
+#: ../inc/library.php:86
+msgid "Patch"
+msgstr ""
+
+#: ../inc/library.php:87
+msgid "Pill"
+msgstr ""
+
+#: ../inc/library.php:88
+msgid "Pulse"
+msgstr ""
+
+#: ../inc/library.php:89
+msgid "Radiation sign"
+msgstr ""
+
+#: ../inc/library.php:90
+msgid "Ribbon"
+msgstr ""
+
+#: ../inc/library.php:91
+msgid "Rx sign"
+msgstr ""
+
+#: ../inc/library.php:92
+msgid "Sex signs"
+msgstr ""
+
+#: ../inc/library.php:93
+msgid "Shot"
+msgstr ""
+
+#: ../inc/library.php:94
+msgid "Skin"
+msgstr ""
+
+#: ../inc/library.php:95
+msgid "Skull bones"
+msgstr ""
+
+#: ../inc/library.php:96
+msgid "Skull"
+msgstr ""
+
+#: ../inc/library.php:97
+msgid "Snakes cup"
+msgstr ""
+
+#: ../inc/library.php:98
+msgid "Snellen chart"
+msgstr ""
+
+#: ../inc/library.php:99
+msgid "Spermatozoids"
+msgstr ""
+
+#: ../inc/library.php:100
+msgid "Stethoscope"
+msgstr ""
+
+#: ../inc/library.php:101
+msgid "Stomach"
+msgstr ""
+
+#: ../inc/library.php:102
+msgid "Surgery"
+msgstr ""
+
+#: ../inc/library.php:103
+msgid "Syringe"
+msgstr ""
+
+#: ../inc/library.php:104
+msgid "Tablet"
+msgstr ""
+
+#: ../inc/library.php:105
+msgid "Test tubes"
+msgstr ""
+
+#: ../inc/library.php:106
+msgid "Thermometer"
+msgstr ""
+
+#: ../inc/library.php:107
+msgid "Thyroid gland"
+msgstr ""
+
+#: ../inc/library.php:108
+msgid "Tooth paste"
+msgstr ""
+
+#: ../inc/library.php:109
+msgid "Tooth"
+msgstr ""
+
+#: ../inc/library.php:110
+msgid "Trolley"
+msgstr ""
+
+#: ../inc/library.php:111
+msgid "Ultrasonic diagnostic"
+msgstr ""
+
+#: ../inc/library.php:112
+msgid "Virus"
+msgstr ""
+
+#: ../inc/library.php:113
+msgid "Women urogenital system"
+msgstr ""
+
+#: ../inc/library.php:144
+msgid "Show all icons"
+msgstr ""

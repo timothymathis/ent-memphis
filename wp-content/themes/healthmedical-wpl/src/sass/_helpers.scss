@@ -1,0 +1,55 @@
+/* ------------------------------------------------------------ *\
+	Helpers
+\* ------------------------------------------------------------ */
+.alignleft { float: left; margin-right: 20px; margin-bottom: 20px; }
+.alignright { float: right; margin-left: 20px; margin-bottom: 20px;}
+.hidden { display: none; visibility: hidden; }
+.alignnone img, .alignnone { max-width: 100%; }
+
+.clearfix:before,
+.clearfix:after { display: table; content: ' '; }
+.clearfix:after { clear: both; }
+.wp-caption-text { font-size: 13px; margin-top: 5px;}
+
+/* ------------------------------------------------------------ *\
+	FullSize Image
+\* ------------------------------------------------------------ */
+
+.fullsize-image-container { -webkit-background-size: cover; background-size: cover; background-position: 0 0; background-repeat: no-repeat; }
+.fullsize-image { display: none; }
+
+@media(max-width: $mobile) {
+	.mobile-hidden { display: none; }
+}
+
+/* ------------------------------------------------------------ *\
+	Content Style
+\* ------------------------------------------------------------ */
+
+table { width: 100%; }
+
+.event-body ul li ul { margin-left: 40px;}
+
+pre {
+  background: #f0f4f7;
+  font: 13px "Courier 10 Pitch", Courier, monospace;
+  line-height: 1.5;
+  margin-bottom: 1.5em;
+  padding: 0.75em 1.5em;
+  color: #666;
+  margin: 20px 0;
+  overflow: auto;
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word; 
+ }
+
+ /*  Post Format Chat  */
+.format-chat .event-body p:nth-child(2n+1) {
+    background: #f3f3f3;
+    padding: 5px;
+}
+
+.cat-limit { max-width: 250px; }
+
+.link-more { text-transform: uppercase; }

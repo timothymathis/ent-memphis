@@ -1,0 +1,54 @@
+/* ------------------------------------------------------------ *\
+  Phone
+\* ------------------------------------------------------------ */
+
+/* Lists */
+ul.plain, ul.border, ul.ordered, ul.unordered {
+  margin: 0;
+  padding: 0;
+}
+ul.plain li > ul, ul.border li > ul, ul.ordered li > ul, ul.unordered li > ul {
+  margin-top: 12px;
+}
+
+ul.plain li {
+  list-style: none;
+}
+
+ul.ordered, ul.unordered {
+  padding-left: 24px;
+}
+ul.ordered li, ul.unordered li {
+  margin-bottom: 0.55em;
+}
+ul.ordered.ordered, ul.unordered.ordered {
+  list-style: decimal !important;
+}
+ul.ordered.unordered, ul.unordered.unordered {
+  list-style: disc !important;
+}
+
+ul.border {
+  margin: 0;
+  padding: 0;
+}
+ul.border li {
+  width: 100%;
+  line-height: inherit;
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(64, 64, 64, 0.15);
+}
+ul.border li:last-child {
+  border-bottom: none;
+}
+
+/* Buttons */
+.button i {
+    margin: 0 0 0 10px;
+}
+
+/* Highlight */
+.shortcode_highlight {
+    background-color: #fcfca8;
+    padding: 4px;
+}
