@@ -28,7 +28,8 @@
 			<div class="intro-image fullsize-image-container" data-stellar-background-ratio="0.54">
 			</div>
 		<?php } elseif( isset($header_image) || !empty($default_header_image) ) { ?>
-			<div class="intro-image fullsize-image-container" data-stellar-background-ratio="0.54">
+			<!-- <div class="intro-image fullsize-image-container" data-stellar-background-ratio="0.54"> -->
+			<div class="intro-image fullsize-image-container">
 				<?php if( !empty($header_image) ) { ?>
 					<img src="<?php echo esc_url($header_image); ?>" class="fullsize-image header-image-post-specific" alt="" />
 				<?php } elseif( !empty($default_header_image) ) { ?>

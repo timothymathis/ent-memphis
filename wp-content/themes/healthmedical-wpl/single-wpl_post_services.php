@@ -21,7 +21,8 @@
 
 <div class="intro intro-small <?php if( $header_image_display == 'off' || ( !$header_image && empty($services_header_image) && empty($default_header_image) ) ) { echo 'no-bg-img'; } ?>">
   <?php if( isset($header_image) || !empty($services_header_image) || !empty($default_header_image) ) { ?>
-  <div class="intro-image fullsize-image-container" data-stellar-background-ratio="0.54">
+  <div class="intro-image fullsize-image-container">
+  <!-- <div class="intro-image fullsize-image-container" data-stellar-background-ratio="0.54"> -->
     <?php if( $header_image_display == 'off' ) { ?>
     <div class="intro-image fullsize-image-container" data-stellar-background-ratio="0.54"> </div>
     <?php } elseif( !empty($header_image) ) { ?>

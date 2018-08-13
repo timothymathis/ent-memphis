@@ -10028,7 +10028,8 @@ a.logo:hover {
 .intro-small .intro-image {
 	position: relative;
 	height: 100%;
-	background-attachment: fixed;
+	/* background-attachment: fixed; */
+	background-position: center;
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-repeat: no-repeat
