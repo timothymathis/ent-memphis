@@ -18,8 +18,8 @@
 	<?php $default_header_image = ot_get_option('wpl_default_header_image'); ?>
 	<?php $header_image_display = get_post_meta( $post->ID, 'wpl_header_image_display', true); ?>
 	<?php $header_image = get_post_meta( $post->ID, 'wpl_header_image', true); ?>
-    
-	<div class="intro intro-small <?php if( $header_image_display == 'off' || !$header_image && empty($default_header_image) ) { echo 'no-bg-img'; } ?>">
+ <div class="row">   
+	<div class="intro intro-small columns large-12 <?php if( $header_image_display == 'off' || !$header_image && empty($default_header_image) ) { echo 'no-bg-img'; } ?>">
 		<?php if( $header_image_display == 'off' ) { ?>
         
         
@@ -44,7 +44,7 @@
 			</div><!-- /.intro-caption -->
 		</div><!-- /.row -->
 	</div><!-- /.intro intro-small -->
-
+ </div>
 <?php echo ot_get_option( 'wpl_default_header_image' ); ?>
 	<div class="main grey">
 		<div class="row">
